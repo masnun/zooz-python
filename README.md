@@ -3,6 +3,15 @@
 #### A Python library for making ZooZ API Calls
 
 
+## Official Documentation
+<br/>
+
+The official docs for ZOOZ can be found on their developer portal - <a href="http://www.zooz.com/developers">http://www.zooz.com/developers</a>. This is an unofficial client library written out of necessity. 
+
+<br/> 
+ 
+
+
 ## Usages
 
 Import the client:
